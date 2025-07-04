@@ -26,6 +26,9 @@ I am a **game programmer and graphics engineer** specializing in real-time rende
 ![Libra](https://github.com/Leep66/Leep66/blob/1c8f49e3d0378e6a34d1a6c05218e1015cf2937f/Images/Libra.png)
 
 # Libra - 2D Physics & Tile-Based Game Engine
+![C++](https://img.shields.io/badge/C++-17%2F20-blue?logo=cplusplus)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 A lightweight C++ game engine with custom ECS architecture and efficient 2D rendering.
 
 ## ✨ Features
