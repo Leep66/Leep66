@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Peiyi Li
 
-![Banner](https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png)
+![Banner](https://raw.githubusercontent.com/leep66/leep66/main/leepBanner.png)
 
 I am a **game programmer and graphics engineer** specializing in real-time rendering, game engine systems, and gameplay programming. I am passionate about building **high-performance, scalable, and maintainable game systems** that create immersive player experiences.
 
