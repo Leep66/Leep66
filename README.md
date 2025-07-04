@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Peiyi Li
 
-![Banner](Images/Banner.png)
+![Banner](https://github.com/Leep66/Leep66/blob/1c8f49e3d0378e6a34d1a6c05218e1015cf2937f/Images/Banner.png)
 
 I am a **game programmer and graphics engineer** specializing in real-time rendering, game engine systems, and gameplay programming. I am passionate about building **high-performance, scalable, and maintainable game systems** that create immersive player experiences.
 
@@ -17,40 +17,43 @@ I am a **game programmer and graphics engineer** specializing in real-time rende
 ---
 
 ## 🗂️ Projects
+### 🎮 [Starship](https://github.com/leep66/Starship)
 
-### 🎮 [Libra](https://github.com/yourusername/Libra)
 
-![Libra Logo](https://raw.githubusercontent.com/yourusername/Libra/main/logo.png)
 
-**Overview**  
-Libra is a 2D projectile physics and ECS demo written in C++ with my custom engine framework. It features:
+### 🎮 [Libra](https://github.com/leep66/Libra)
 
-- **Entity Component System (ECS)** for modular game object management
-- **Raycasting** for tile, disc, and AABB collision detection
-- **Game Mode System** for AttractMode and GameMode switching
-- **Particle System** for visual effects
-- **Audio System** supporting multi-channel playback
+![Libra](https://github.com/Leep66/Leep66/blob/1c8f49e3d0378e6a34d1a6c05218e1015cf2937f/Images/Libra.png)
 
-**How to Build & Run**
+# Libra - 2D Physics & Tile-Based Game Engine
+A lightweight C++ game engine with custom ECS architecture and efficient 2D rendering.
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/Libra.git
-    cd Libra
-    ```
-2. Open `Libra.sln` in Visual Studio 2022  
-3. Build using x64 Debug/Release configuration and run
+## ✨ Features
 
----
+- **Entity-Component-System (ECS)**
+  - Decoupled design for flexible game object composition
+- **Physics System**
+  - Raycasting (Tiles/Discs/AABB)
+  - Spatial partitioning optimization
+- **AI Pathfinding**
+  - A* (A Star) algorithm implementation
+- **Rendering**
+  - Tilemap system with layer support
+  - Particle effects (fire/smoke/magic)
+- **Audio**
+  - Multi-channel mixer with positional sound
 
-### 🔧 [Utility Scripts](https://github.com/yourusername/UtilityScripts)
+## 🚀 Quick Start
 
-A collection of scripts to streamline development, including:
+### Prerequisites
+- Visual Studio 2022 (with C++ workload)
+- [Optional] CMake 3.20+
 
-- Automatic include guard generation  
-- Batch renaming and format conversion tools  
-- Resource management helpers
-
+### Build Instructions
+```bash
+git clone https://github.com/leep66/Libra.git
+cd Libra
+```
 ---
 
 ## 👤 About Me
@@ -63,21 +66,12 @@ I enjoy designing **efficient and scalable systems** to solve complex problems i
 - Game AI and physics simulation
 
 🎯 **Career Goal**  
-To become a game engine or graphics programmer contributing to **AAA projects** with robust rendering features and gameplay systems.
+To become a great game engine or graphics programmer contributing to **AAA projects** with robust rendering features and gameplay systems.
 
 ---
 
 ## 📫 Contact
 
-🔗 [Resume](https://yourwebsite.com/resume.pdf) | [LinkedIn](https://www.linkedin.com/in/yourname) | 📧 youremail@domain.com
-
----
-
-### ⚠️ Branding Checklist
-
-✅ Uses consistent avatar, banner, and logo as resume and LinkedIn  
-✅ Clear, professional, and concise language  
-✅ Includes project logos and images for strong visual branding  
-✅ Each repository has an overview, build instructions, and relevant images
+🔗 [Resume](https://drive.google.com/file/d/1MgefmPR7-F89P26cXeZ39ZzGPib7-y5Q/view?usp=sharing) | [LinkedIn](www.linkedin.com/in/peiyi-li-ba0a21368) | 📧 peiyili2001@gmail.com
 
 ---
