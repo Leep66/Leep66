@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/Leep66/Leep66/blob/1c8f49e3d0378e6a34d1a6c05218e1015cf2937f/Images/Banner.png)
 
-I am a **game programmer and graphics engineer** specializing in real-time rendering, game engine systems, and gameplay programming. I am passionate about building **high-performance, scalable, and maintainable game systems** that create immersive player experiences.
+I am a **game programmer** specializing in game engine systems, real-time rendering, and gameplay programming. I am passionate about building **high-performance, scalable, and maintainable game systems** that create immersive player experiences.
 
 🎓 **Education**
 
