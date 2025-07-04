@@ -141,6 +141,6 @@ To become a great game engine or graphics programmer contributing to **AAA proje
 
 ## 📫 Contact
 
-🔗 [Resume](https://drive.google.com/file/d/1MgefmPR7-F89P26cXeZ39ZzGPib7-y5Q/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/peiyi-li-ba0a21368) | 📧 peiyili2001@gmail.com
+[Resume](https://drive.google.com/file/d/1MgefmPR7-F89P26cXeZ39ZzGPib7-y5Q/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/peiyi-li-ba0a21368) | peiyili2001@gmail.com
 
 ---
