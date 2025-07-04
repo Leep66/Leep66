@@ -17,18 +17,43 @@ I am a **game programmer and graphics engineer** specializing in real-time rende
 ---
 
 ## 🗂️ Projects
+
 ### 🎮 [Starship](https://github.com/leep66/Starship)
 
+![Gameplay Screenshot](https://github.com/Leep66/Leep66/blob/1c8f49e3d0378e6a34d1a6c05218e1015cf2937f/Images/Starship.png)
+
+A fast-paced 2D space shooter featuring disc collision physics and competitive local multiplayer.
+
+## ✨ Core Features
+
+- **Physics System**
+  - Disc-based collision detection
+  - Newtonian momentum simulation
+
+- **Local Multiplayer**
+  - Split-screen gameplay
+  - Customizable controls (Keyboard/Controller)
+  - Players vs AI battle modes
+
+- **Game Modes**
+  - Survival (Co-op against AI)
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Visual Studio 2022 (with C++ workload)
+
+### Build Instructions
+```bash
+git clone https://github.com/leep66/Starship.git
+cd Starship
+```
 
 
 ### 🎮 [Libra](https://github.com/leep66/Libra)
 
-![Libra](https://github.com/Leep66/Leep66/blob/1c8f49e3d0378e6a34d1a6c05218e1015cf2937f/Images/Libra.png)
+![Gameplay Screenshot](https://github.com/Leep66/Leep66/blob/1c8f49e3d0378e6a34d1a6c05218e1015cf2937f/Images/Libra.png)
 
-# Libra - 2D Physics & Tile-Based Game Engine
-![C++](https://img.shields.io/badge/C++-17%2F20-blue?logo=cplusplus)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 A lightweight C++ game engine with custom ECS architecture and efficient 2D rendering.
 
 ## ✨ Features
@@ -39,7 +64,7 @@ A lightweight C++ game engine with custom ECS architecture and efficient 2D rend
   - Raycasting (Tiles/Discs/AABB)
   - Spatial partitioning optimization
 - **AI Pathfinding**
-  - A* (A Star) algorithm implementation
+  - Dijkstra's algorithm implementation
 - **Rendering**
   - Tilemap system with layer support
   - Particle effects (fire/smoke/magic)
@@ -50,7 +75,6 @@ A lightweight C++ game engine with custom ECS architecture and efficient 2D rend
 
 ### Prerequisites
 - Visual Studio 2022 (with C++ workload)
-- [Optional] CMake 3.20+
 
 ### Build Instructions
 ```bash
@@ -58,6 +82,48 @@ git clone https://github.com/leep66/Libra.git
 cd Libra
 ```
 ---
+
+### 🎮 [Doomenstein](https://github.com/leep66/Doomenstein)
+# 🔥 Doomenstein 3D
+
+![Gameplay Screenshot](https://github.com/Leep66/Leep66/blob/1c8f49e3d0378e6a34d1a6c05218e1015cf2937f/Images/Doomenstein.png)
+
+A retro-style 3D survival shooter featuring hybrid cylinder collision and billboard rendering, with XML-driven game logic.
+
+## ✨ Core Features
+
+### 🎯 Gameplay Systems
+- **5 Unique Weapons**:
+  - Pistol | Shotgun | Rifle 
+  - Freeze Gun | Grappling Hook
+- **Enemy Variety**:
+  - Melee (Charging) | Ranged (Projectile)
+  - Elite (Armored) | Swarm (Group AI)
+- **Survival Mode**:
+  - Wave-based progression
+  - Dynamic difficulty scaling
+
+### ⚙️ Technical Architecture
+- **Rounded Billboard**
+- **Cylinder Collider**
+- **Directional Light**
+
+### 🎮 Game Modes
+- Survival
+- Progressive difficulty waves
+- Co-op Campaign
+- Player vs. Player
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Visual Studio 2022 (with C++ workload)
+
+### Build Instructions
+```bash
+git clone https://github.com/leep66/Doomenstein.git
+cd Doomenstein
+```
 
 ## 👤 About Me
 
