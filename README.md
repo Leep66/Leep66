@@ -15,7 +15,7 @@ I am a **game programmer** specializing in game engine systems, real-time render
   - Specialized in Java, Python, C#, JavaScript, data structures, and algorithms
  
 
-☑️ **Skill**
+☑️ **Skills**
 
 - **C++**
 - **Unity**
