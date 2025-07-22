@@ -13,6 +13,16 @@ I am a **game programmer** specializing in game engine systems, real-time render
 - **University of Arizona**  
   Bachelor of Science in Computer Science  
   - Specialized in Java, Python, C#, JavaScript, data structures, and algorithms
+ 
+
+☑️ **Skill**
+
+- **C++**
+- **Unity**
+- **Unreal**
+- **C#**
+- **Python**
+- **Java**
 
 ---
 
@@ -55,6 +65,6 @@ To become a great game engine or graphics programmer contributing to **AAA proje
 
 ## 📫 Contact
 
-[Resume](https://drive.google.com/file/d/1MgefmPR7-F89P26cXeZ39ZzGPib7-y5Q/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/peiyi-li-ba0a21368) | peiyili2001@gmail.com
+[Resume](https://drive.google.com/file/d/1MgefmPR7-F89P26cXeZ39ZzGPib7-y5Q/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/peiyi-li-ba0a21368) | peiyili2001@gmail.com | [Portfolio Website](https://sites.google.com/view/leepportfolio/)
 
 ---
